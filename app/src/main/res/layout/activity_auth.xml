@@ -105,7 +105,7 @@
 
         <Space
             android:layout_width="match_parent"
-            android:layout_height="20dp" />
+            android:layout_height="30dp" />
 
         <Button
             android:id="@+id/googleButton"
@@ -114,10 +114,11 @@
             android:layout_gravity="center"
             android:background="@color/white"
             android:drawableLeft="@mipmap/google"
-            android:paddingLeft="15dp"
+            android:paddingLeft="5dp"
             android:text="Google"
             android:textAlignment="textStart"
             android:textColor="@color/design_default_color_primary_dark"
+            android:textSize="24sp"
             app:backgroundTint="@color/white"
             tools:ignore="RtlCompat" />
 

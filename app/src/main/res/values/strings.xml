@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TeacHome</string>
+    <string name="prefs_file">com.example.proyecto_nuevo.PREFERENCE_FILE_KEY></string>
 </resources>
